@@ -1,0 +1,18 @@
+1.
+    a+=2 ---> a=a+2
+    a-=2 ---> a=a-2
+    a*=2 ---> a=a*2
+    a/=2 ---> a=a/2
+
+ 2.
+    ctr + c / insert ----->             copy
+    ctr + v / shift + insert ----->     paste
+    shift + alt+ arrow ------------>    copy paste(Dupliacate)
+3.
+    alt + click ------->  multiple cursue(changes multiple)
+    shift + arrow ----->  select
+    alt + up/down arrow-----> move __LINE__
+    ctr + L --------> select entire __LINE__
+    ctr + / or // ----->   comment
+    CTR + BACKSPACE ------>  DELETE WORD
+
